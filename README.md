@@ -19,6 +19,7 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+## Write a C program that illustrates two processes communicating using shared memory.
 ```
 //shm1.o
 #include <unistd.h>
@@ -161,7 +162,7 @@ int main()
 }
 
 ```
-## Write a C program that illustrates two processes communicating using shared memory.
+
 
 ## OUTPUT
 <img width="358" height="222" alt="image" src="https://github.com/user-attachments/assets/4bf561cc-d361-409b-820f-521f835f3c06" />
